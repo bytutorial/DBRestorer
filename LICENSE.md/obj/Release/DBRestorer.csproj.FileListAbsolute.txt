@@ -1,0 +1,10 @@
+C:\Users\andy\tutorial\DBRestorer\bin\Release\DBRestorer.exe.config
+C:\Users\andy\tutorial\DBRestorer\bin\Release\DBRestorer.exe.manifest
+C:\Users\andy\tutorial\DBRestorer\bin\Release\DBRestorer.application
+C:\Users\andy\tutorial\DBRestorer\bin\Release\DBRestorer.exe
+C:\Users\andy\tutorial\DBRestorer\bin\Release\DBRestorer.pdb
+C:\Users\andy\tutorial\DBRestorer\bin\Release\Microsoft.Web.Administration.dll
+C:\Users\andy\tutorial\DBRestorer\obj\Release\DBRestorer.exe.manifest
+C:\Users\andy\tutorial\DBRestorer\obj\Release\DBRestorer.application
+C:\Users\andy\tutorial\DBRestorer\obj\Release\DBRestorer.exe
+C:\Users\andy\tutorial\DBRestorer\obj\Release\DBRestorer.pdb

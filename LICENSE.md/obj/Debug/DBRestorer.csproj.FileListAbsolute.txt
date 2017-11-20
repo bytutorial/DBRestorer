@@ -1,0 +1,11 @@
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\DBRestorer.exe.config
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\DBRestorer.exe
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\DBRestorer.pdb
+C:\Users\andy\tutorial\DBRestorer\obj\Debug\DBRestorer.exe
+C:\Users\andy\tutorial\DBRestorer\obj\Debug\DBRestorer.pdb
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\andy\tutorial\DBRestorer\obj\Debug\DBRestorer.csprojResolveAssemblyReference.cache
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\DBRestorer.exe.manifest
+C:\Users\andy\tutorial\DBRestorer\bin\Debug\DBRestorer.application
+C:\Users\andy\tutorial\DBRestorer\obj\Debug\DBRestorer.exe.manifest
+C:\Users\andy\tutorial\DBRestorer\obj\Debug\DBRestorer.application
